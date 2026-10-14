@@ -1,10 +1,10 @@
-# 🌍 Nome do Projeto
+# 🌍 Star
 
 ## 📌 Sobre o projeto
 
 **Qual é o nome do projeto?**
 
-[Escreva o nome escolhido.]
+[Star.]
 
 **Qual problema relacionado às mudanças climáticas o projeto pretende abordar?**
 
